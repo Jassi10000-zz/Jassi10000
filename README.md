@@ -6,10 +6,9 @@
 <h1 align="center"> I'm Dev. Jaskeerat Singh 🤗</h1>
 <h3 align="center">Web Enthusist😍 and Github Lover 💖</h3>
 
-  <br />
-<img align="right" width="300px" height="280px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+<img align="center" width="400px" height="400px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
-
+<div align=”center”><img width="400px" height="400px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"></div>
 
 
 
