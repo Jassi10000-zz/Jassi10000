@@ -1,14 +1,15 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jassi10000&label=Profile%20views&color=129e00&style=plastic" alt="Jassi10000" /> </p>
+
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, exciting < Developers /> 🤩 and System.out.println("Coders")🥰 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
 <h1 align="center"> I'm Dev. Jaskeerat Singh 🤗</h1>
 <h3 align="center">Web Enthusist😍 and Github Lover 💖</h3>
-<img align="left" width="300px" height="280px" src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif">
+<img align="left" width="250px" height="200px" src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif">
 <img align="right" width="300px" height="280px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
-<br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jassi10000&label=Profile%20views&color=129e00&style=plastic" alt="Jassi10000" /> </p>
+
 
 
 
