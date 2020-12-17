@@ -2,6 +2,8 @@
 
 <h1 align="center"> I'm Dev. Jaskeerat Singh 🤗</h1>
 <h3 align="center">Web Enthusist</h3>
+<img align="center" width="250px" height="200px" src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jassi10000&label=Profile%20views&color=129e00&style=plastic" alt="Jassi10000" /> </p>
