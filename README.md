@@ -5,15 +5,15 @@
 
 <h1 align="center"> I'm Dev. Jaskeerat Singh 🤗</h1>
 <h3 align="center">Web Enthusist😍 and Github Lover 💖</h3>
-<img align="left" width="250px" height="200px" src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif">
+
+  <br />
 <img align="right" width="300px" height="280px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
 
 
 
 
-
-
+  
 ![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) 
 
 ## Coding is fun 🤩💝
