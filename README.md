@@ -6,6 +6,7 @@
 <img align="left" width="300px" height="280px" src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif">
 <img align="right" width="300px" height="280px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jassi10000&label=Profile%20views&color=129e00&style=plastic" alt="Jassi10000" /> </p>
 
