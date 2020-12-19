@@ -8,7 +8,7 @@
 
 
 
-<div style="text-align:center"><img width="500px" height="500px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"></div>
+<div align="center"><img width="500px" height="500px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"></div>
 
 
 
