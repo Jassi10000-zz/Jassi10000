@@ -8,16 +8,12 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sagarbarapatre02/">
-    <img align="center" alt="Sagar Barapatre | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/jaskeerat-singh-5438531a6/">
+    <img align="center" alt="Jaskeerat Singh | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   
-  <a href="mailto:sagar.applications@gmail.com">
-    <img align="center" alt="Sagar Barapatre | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-  
-  <a href="https://stackoverflow.com/users/13044870/sagar-barapatre">
-    <img align="center" alt="Sagar Barapatre | Stack Overflow" width="45px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />
+  <a href="mailto:jaskeerat10000@gmail.com">
+    <img align="center" alt="Jaskeerat Singh | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 </p>
 
