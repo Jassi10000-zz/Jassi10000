@@ -10,7 +10,7 @@
 - 💬 Ask me about Java, C++, C
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/), [Gmail](jaskeerat10000@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I played PUBG lot.
+
 
 
 
