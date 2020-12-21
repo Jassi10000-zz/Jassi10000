@@ -18,7 +18,7 @@
 </p>
 
 
-<div class="container">
+
 ## Here are some facts about me :
 
 - 🔭 I’m currently a Student
@@ -31,7 +31,7 @@
 - ⚡ Fun fact: I love sleeping 😝
  
  <img align="center" width="500px" height="500px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
-</div>
+
 
 
 
