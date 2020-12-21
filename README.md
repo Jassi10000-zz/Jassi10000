@@ -24,22 +24,12 @@
 - 🔭 I’m currently a Student
 - 🌱 I’m currently learning DSA & Web Technologies
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Web Devlepment
-- 💬 Ask me about DSA and Web Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagarbarapatre02/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love sleeping too much
- 
-
-
-
-
-- 🌱 I’m currently learning **New Tech Stuff**
-- 💬 Ask me about Java, C++, C
+- 🤔 I’m looking for help with DSA and and its concepts
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/), [Gmail](jaskeerat10000@gmail.com)
-- 😄 Pronouns: He/His
-
-
+- 💬 Ask me about DSA and Web Development
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love sleeping 😝
+ 
 
 
 <div style="margin-left:150px;"><img width="700px" height="700px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"></div>
