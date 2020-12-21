@@ -12,13 +12,13 @@
     <img align="center" alt="Jaskeerat Singh | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   
-  <a href="jaskeerat10000@gmail.com">
+  <a href="mailto:jaskeerat10000@gmail.com">
     <img align="center" alt="Jaskeerat Singh | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 </p>
 
 
-
+<div class="container">
 ## Here are some facts about me :
 
 - 🔭 I’m currently a Student
@@ -30,9 +30,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love sleeping 😝
  
+</div>
 
-
-<div style="margin-left:150px;"><img width="700px" height="700px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"></div>
+<div><img align="right" width="500px" height="500px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"></div>
 
 
 
