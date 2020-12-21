@@ -30,9 +30,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love sleeping 😝
  
+ <img align="center" width="500px" height="500px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 </div>
-
-<div><img align="right" width="500px" height="500px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"></div>
 
 
 
