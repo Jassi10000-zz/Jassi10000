@@ -6,6 +6,12 @@
 <h1 align="center"> I'm Dev. Jaskeerat Singh 🤗</h1>
 <h3 align="center">Web Enthusist😍 and Github Lover 💖</h3>
 
+- 🌱 I’m currently learning **New Tech Stuff**
+- 💬 Ask me about Java, C++, C
+- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/jagmohan-singh-6102a117b/), [Gmail](jmsingh6871@gmail.com)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I played PUBG lot.
+
 
 
 <div style="margin-left:150px;"><img width="700px" height="700px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"></div>
