@@ -38,10 +38,10 @@
   
 ![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) 
 
-<p align="center">
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jassi10000" alt="Github Streak Stats">
-</p>
+
 
 
 ## Coding is fun 🤩💝
