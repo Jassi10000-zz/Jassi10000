@@ -38,13 +38,15 @@
   
 ![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) 
 
-## Coding is fun 🤩💝
-<img align="left" height="230" width="350" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jassi10000" alt="Github Streak Stats">
 </p>
+
+
+## Coding is fun 🤩💝
+<img align="left" height="230" width="350" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+
 
 
 ### :handshake: Always happy to help!
