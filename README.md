@@ -12,7 +12,7 @@
     <img align="center" alt="Jaskeerat Singh | Linkedin" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   
-  <a href="mailto:jaskeerat10000@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jaskeerat10000@gmail.com" target="_blank">
     <img align="center" alt="Jaskeerat Singh | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 </p>
