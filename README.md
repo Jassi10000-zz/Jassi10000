@@ -15,6 +15,10 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jaskeerat10000@gmail.com" target="_blank">
     <img align="center" alt="Jaskeerat Singh | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  
+  <a href = "https://twitter.com/Jaskeer56002158" target='_blank'>
+    <img align="center" alt="Jaskeerat Singh | Twitter" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"/>
+  </a>
 </p>
 
 
