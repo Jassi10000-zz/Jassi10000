@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jassi10000&label=Profile%20views&color=c20a35" alt="Jassi10000" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jassi10000&label=Profile%20views&color=ffd103" alt="Jassi10000" /></p>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, exciting < Developers 🤩 /> and System.out.println("Coders 🥰") !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
