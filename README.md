@@ -28,7 +28,7 @@
 - 🔭 I’m currently a Student
 - 🌱 I’m currently learning DSA & Web Technologies(preferably MERN/MEAN)
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with DSA and and its concepts
+- 🤔 I’m looking for help with DSA concepts and Competitive Programming
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/), [Gmail](jaskeerat10000@gmail.com)
 - 💬 Ask me about DSA and Web Development
 - 😄 Pronouns: He/Him
