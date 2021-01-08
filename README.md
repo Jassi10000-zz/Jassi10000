@@ -32,7 +32,7 @@
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/), [Gmail](jaskeerat10000@gmail.com)
 - 💬 Ask me about DSA and Web Development
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love sleeping 😝
+- ⚡ Fun fact: React.Js is not a framework instead a library 💝
  
  <img align="center" width="500px" height="500px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
