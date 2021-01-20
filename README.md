@@ -9,6 +9,7 @@
 <h1 align="center"> I'm Dev. Jaskeerat Singh 🤗</h1>
 <h3 align="center">Web Enthusist😍 and Github Lover 💖</h3>
 
+<hr>
 
 <h3>Connect with me 🤝</h3>
 <p align="center">
@@ -32,8 +33,7 @@
 - ⚡ Fun fact: React.Js is not a framework instead a library 💝
  
 <hr>
-
- ![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) <img align="center" width="300px" height="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+<img align="center" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) 
 
 
 ## Coding is fun 🤩💝
