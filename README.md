@@ -33,7 +33,10 @@
 - ⚡ Fun fact: React.Js is not a framework instead a library 💝
  
 <hr>
-<img align="center" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) 
+
+![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) 
+
+<img align="center" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
 
 ## Coding is fun 🤩💝
