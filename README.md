@@ -21,18 +21,7 @@
 
 
 
-## Here are some facts about me :
 
-- 🔭 I’m currently a Student
-- 🤩 MasterTheMainframe2020 fellow by IBM
-- 🌱 I’m currently learning DSA & Web Technologies(preferably MERN/MEAN)
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with DSA concepts and Competitive Programming
-- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/), [Gmail](jaskeerat10000@gmail.com)
-- 💬 Ask me about DSA and Web Development
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: React.Js is not a framework instead a library 💝
- 
  ![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) <img align="center" width="300px" height="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
 
