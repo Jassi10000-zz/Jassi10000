@@ -33,15 +33,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: React.Js is not a framework instead a library 💝
  
- <img align="center" width="300px" height="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
-
-
-
-
-  
-![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) 
-
-
+ ![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) <img align="center" width="300px" height="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
 
 ## Coding is fun 🤩💝
