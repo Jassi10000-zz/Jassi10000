@@ -10,17 +10,28 @@
 <h3 align="center">Web Enthusist😍 and Github Lover 💖</h3>
 
 
-
+<h3>Connect with me 🤝</h3>
 <p align="center">
   
   <a href="https://twitter.com/Jaskeer56002158" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="40px" width="40px" alt="Twitter" align="left"></a><a href="https://www.linkedin.com/in/jaskeerat-singh-5438531a6/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="40px" width="40px" alt="Twitter" align="left"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jaskeerat10000@gmail.com" target="_blank">
-    <img align="right" alt="Jaskeerat Singh | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="Jaskeerat Singh | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> 
 </p>
 
 
+## Here are some facts about me :
 
-
+- 🔭 I’m currently a Student
+- 🤩 MasterTheMainframe2020 fellow by IBM
+- 🌱 I’m currently learning DSA & Web Technologies(preferably MERN/MEAN)
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with DSA concepts and Competitive Programming
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/), [Gmail](jaskeerat10000@gmail.com)
+- 💬 Ask me about DSA and Web Development
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: React.Js is not a framework instead a library 💝
+ 
+<hr>
 
  ![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) <img align="center" width="300px" height="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
