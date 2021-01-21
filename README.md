@@ -22,7 +22,7 @@
 
 ## Here are some facts about me :
 
-- 🔭 I’m currently a Student
+- 🔭 I’m currently a 3rd year Undergrad
 - 🤩 MasterTheMainframe2020 fellow by IBM
 - 🌱 I’m currently learning DSA & Web Technologies(preferably MERN/MEAN)
 - 👯 I’m looking to collaborate on Open Source Projects
