@@ -39,6 +39,9 @@
 
 ![Jaskeerat's github stats](https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&locale=en&theme=radical) 
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jassi10000&" alt="Jaskeerat Singh" /></p>
+
 <img align="center" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 
 
