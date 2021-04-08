@@ -43,13 +43,13 @@
 
 
 
-<h2 align="center">My Github Stats 🔥</h2>   
+<h2 align="center">My Github Statistics 🔥</h2>   
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&theme=radical" alt="Iamtripathisatyam" />
 </p>
 
-
+<h2 align="center">My Github Contributions Graph🔥</h2>   
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Jassi10000&theme=radical" alt="Iamtripathisatyam" />
 </p>
@@ -64,11 +64,13 @@
  </p>  
 
 
-<img align="center" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+<p align="center">
+  <img  width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+</p>
 
 
 ## Coding is fun 🤩💝
-<img align="left" height="230" width="350" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+<img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
 
 
