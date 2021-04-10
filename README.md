@@ -1,7 +1,11 @@
 <p align="center"> 
-  <h2>Visitors count</h2>
+  <h2 align="center">Visitors count</h2>
+</p>
+
+<p align = "center">
   <img src="https://profile-counter.glitch.me/Jassi10000/count.svg" />
 </p>
+
 <br>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, exciting < Developers 🤩 /> and System.out.println("Coders 🥰") !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
