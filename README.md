@@ -25,7 +25,7 @@
    
  <br/>
 
-<h2 align="center">Here are some facts about me 😊</h2>
+<h2 align="center">Here are some facts about me ✍</h2>
 
 - 🔭 I’m currently a 3rd year Undergrad
 - 🤩 MasterTheMainframe2020 fellow by IBM
