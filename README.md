@@ -52,11 +52,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&theme=radical" alt="Iamtripathisatyam" />
 </p>
 
-<h2 align="center">My Github Contributions Graph🔥</h2>   
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Jassi10000&theme=radical" alt="Iamtripathisatyam" />
-</p>
-
 
 
 <h2 align="center">My contribution Streak 🔥</h2>
