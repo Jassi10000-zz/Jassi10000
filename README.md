@@ -35,7 +35,7 @@
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/), [Gmail](jaskeerat10000@gmail.com)
 - 💬 Ask me about DSA and Web Development
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: React.Js is not a framework instead a library 💝
+- ⚡ Fun fact: Why not maintain streak of green squares 🟩 on Github being a developer, Snapchat is now too old fashioned 😒
  
 <br>
 
