@@ -34,6 +34,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with DSA concepts and Competitive Programming
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/), [Gmail](jaskeerat10000@gmail.com)
+- ✍ Follow my blogs on [HashNode](https://hashnode.com/@Jassi10000) or my personal Blog website [jasBlogs](https://jasblogs.hashnode.dev/)
 - 💬 Ask me about DSA and Web Development
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Why not maintain streak of green squares 🟩 on Github being a developer, Snapchat is now too old fashioned 😒
