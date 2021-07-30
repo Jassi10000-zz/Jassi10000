@@ -18,8 +18,9 @@
 <body>
     <div class="img1">
 <p align='center'>
-<a href="https://www.linkedin.com/in/jaskeerat-singh-5438531a6/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:jaskeerat10000@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>     <a href="https://t.me/Jassi10000" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>         <a href="https://twitter.com/Jaskeer56002158" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>
+<a href="https://www.linkedin.com/in/jaskeerat-singh-5438531a6/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:jaskeerat10000@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>     <a href="https://t.me/Jassi10000" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>         <a href="https://twitter.com/Jaskeer56002158" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>         <a href="https://jasblogs.hashnode.dev/" target="_blank"><img src="https://camo.githubusercontent.com/c8908719044365963ab6efff0f3e207fc97d0d2f0a9075f686065cf74d4e9527/68747470733a2f2f63646e2e73766172756e2e6465762f636f6d6d6f6e2f686173686e6f64652f69636f6e2e706e67" alt="hashnode" width=48></a>
 <p/>
+      
 </div>
 </body>
    
