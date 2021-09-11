@@ -8,7 +8,7 @@
 
 
 <p align="center">
-   <img src="https://github.com/Jassi10000/jas/blob/master/background.PNG" width="1050px" height="550px">
+   <img src="https://github.com/Jassi10000/jas/blob/master/background.PNG" width="1050px" height="490px">
 </p>
 
 
