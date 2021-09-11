@@ -1,14 +1,19 @@
 <p align="center"> 
   <h2 align="center">Visitors count</h2>
 </p>
-
 <p align = "center">
   <img src="https://profile-counter.glitch.me/Jassi10000/count.svg" />
 </p>
 
+
+
+<p align="center">
+   <img src="https://github.com/Jassi10000/jas/blob/master/background.PNG" width="1050px" height="550px">
+</p>
+
+
 <br>
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, exciting < Developers 🤩 /> and System.out.println("Coders 🥰") !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <h1 align="center"> I'm Dev. Jaskeerat Singh 🤗</h1>
 <h3 align="center">Web Enthusist😍 and Github Lover 💖</h3>
 
