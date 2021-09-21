@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently a 3rd year Undergrad
 - 🤩 MasterTheMainframe2020 fellow by IBM
-- 🌱 I’m currently learning DSA & Web Technologies(preferably MERN/MEAN)
+- 🌱 I’m currently learning DSA & Web Technologies(preferably MERN)
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with DSA concepts and Competitive Programming
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/jaskeerat-singh-5438531a6/), [Gmail](jaskeerat10000@gmail.com)
