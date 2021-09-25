@@ -33,7 +33,7 @@
 
 <h2 align="center">Here are some facts about me ✍</h2>
 
-- 🔭 I’m currently a 3rd year Undergrad
+- 🔭 I’m currently a 4th year Undergrad
 - 🤩 MasterTheMainframe2020 fellow by IBM
 - 🌱 I’m currently learning DSA & Web Technologies(preferably MERN)
 - 👯 I’m looking to collaborate on Open Source Projects
