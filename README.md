@@ -56,7 +56,7 @@
 <h2 align="center">My Github Statistics 🔥</h2>   
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&theme=radical" alt="Iamtripathisatyam" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jassi10000&show_icons=true&theme=radical" alt="Jaskeerat Singh's github stats" />
 </p>
 
 
